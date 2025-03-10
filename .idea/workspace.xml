@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="879f4f95-0f69-441d-a3b4-554c6527e859" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sprint/sms/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sprint/sms/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sprint/sms/SmsInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sprint/sms/SmsInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/antrun/build-main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/antrun/build-main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sprint/sms/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sprint/sms/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sprint/sms/SmsInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sprint/sms/SmsInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/sprint-bot-sms-1.0-SNAPSHOT-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/sprint-bot-sms-1.0-SNAPSHOT-jar-with-dependencies.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/sprint-bot-sms-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/sprint-bot-sms-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/sprint-bot-sms.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/sprint-bot-sms.jar" afterDir="false" />
-    </list>
+    <list default="true" id="879f4f95-0f69-441d-a3b4-554c6527e859" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +46,11 @@
     "last_opened_file_path": "D:/!!!MOJE/!SLaw/SRC/sprint-bot-sms"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\!!!MOJE\!SLaw\SRC\sprint-bot-sms" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
